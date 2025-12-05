@@ -1607,7 +1607,7 @@ const AIChatWidget = ({ context }) => {
 
 // 👇 --- PEGA TODO ESTO JUSTO ENCIMA DE "export default function InformeTrialto" --- 👇
 
-const EXTERNAL_URL = "/edificio-v3.glb";
+const EXTERNAL_URL = "/edificio-v5.glb";
 
 const Model = () => {
   const { scene } = useGLTF(EXTERNAL_URL);
